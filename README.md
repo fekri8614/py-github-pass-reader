@@ -1,5 +1,5 @@
 ### py-github-pass-reader
-**Simple python script to read generated "github-recovery-codes.txt" file.**
+**Simple python script to read the generated "github-recovery-codes.txt" file.**
 ---
 # How to use it:
 1. run the code:
